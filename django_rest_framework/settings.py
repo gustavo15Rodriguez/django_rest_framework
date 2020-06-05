@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # Rest_framework
     'rest_framework',
-    'snippets.apps.SnippetsConfig',
+    'apps.snippets',
 ]
 
 REST_FRAMEWORK = {
