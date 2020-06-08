@@ -25,5 +25,4 @@ router.register(r'groups', views.GroupViewSet)
 urlpatterns = [
     path('', include(router.urls)),
     path('snippets/', include('apps.snippets.urls')),
-    path('api/', include('rest_framework.urls', namespace='rest_framework'))
 ]

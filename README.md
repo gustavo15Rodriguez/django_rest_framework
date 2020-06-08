@@ -42,5 +42,5 @@ Para saber con que urls hay disponibles dirijase al archivo `urls.py` de la carp
 encontrara la informacion suficiente al respecto.
 
 Para poder eliminar o editar algun valor desde la api no debe olvidarse de
-loguearse con el superusuario que halla creado en el punto anterior. Esto con el proposito de 
-agregarle seguridad de escritura a la api en la web. 
+loguearse con el superusuario y/o usuario que halla creado en el punto anterior. Esto con el proposito de 
+agregarle seguridad a la api rest. 
